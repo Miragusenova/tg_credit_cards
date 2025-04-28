@@ -57,7 +57,7 @@ python3 -m pip install faker
 
 5. Запускаем
 ``` markdown
-python3 card_bot.py
+python3 main.py
 ```
 
 ## Автор
